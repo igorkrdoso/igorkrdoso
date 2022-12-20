@@ -1,8 +1,8 @@
 ## Olá, eu sou o Igor Cardoso.
 <br>
 <br>
-_Atualmente estudando programação, Curso de Desenvolvedor Full Stack.
-Me especializando em Programação Orientado a Objetos, utilizando a Linguagem Java._
+*Atualmente estudando programação, Curso de Desenvolvedor Full Stack.
+Me especializando em Programação Orientado a Objetos, utilizando a Linguagem Java.*
 <br>
   <br>
 LinkedIn
