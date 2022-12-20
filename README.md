@@ -7,6 +7,7 @@ Me especializando em Programação Orientado a Objetos, utilizando a Linguagem J
   <br>
 LinkedIn
   <br>
+  <a href="https://www.linkedin.com/in/igor-cardoso-0015b558/" target="_blank">
 <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 Conhecimento:
