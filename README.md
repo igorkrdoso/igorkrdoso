@@ -4,10 +4,10 @@ Olá, eu sou o Igor Cardoso.
 Atualmente estudando programação, Curso de Desenvolvedor Full Stack.
 Me especializando em Programação Orientado a Objetos, utilizando a Linguagem Java.
 <br>
-  <br
+  <br>
 LinkedIn
   <br>
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 Conhecimento:
   <br>
