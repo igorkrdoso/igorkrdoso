@@ -1,16 +1,13 @@
-### Hi there 👋
+Olá, eu sou o Igor Cardoso.
+<br>
+<b>
+Atualmente estudando programação, Curso de Desenvolvedor Full Stack.
+Me especializando em Programação Orientado a Objetos, tilizando a Linguagem Java.
+<b>
+LinkedIn
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
-<!--
-**igorkrdoso/igorkrdoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Conhecimento:
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src= "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
